@@ -17,4 +17,5 @@ unzip mafft.zip
 cd ..
 rm -rf release
 cp -rf sources/mafft-win release
+touch release/tmp/.empty
 
